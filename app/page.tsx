@@ -6,7 +6,7 @@ import styles from "./page.module.css";
 import { useChat } from "@ai-sdk/react";
 
 // For list of available models visit https://deepinfra.com/models
-const DI_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo";
+const DI_MODEL = "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo";
 
 function Chat() {
   const { messages, input, handleInputChange, handleSubmit } = useChat({

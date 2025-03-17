@@ -59,9 +59,9 @@ From the [api keys page](https://deepinfra.com/dash/api_keys) in your Deep Infra
 
 ## Experiment
 
-By default the sample app uses model `meta-llama/Llama-3.3-70B-Instruct-Turbo` specified in `app/page.tsx`:
+By default the sample app uses model `meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo` specified in `app/page.tsx`:
 ```typescript
-const DI_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo";
+const DI_MODEL = "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo";
 ```
 
 The actual inference calls to the model happen in `app/api/chat/route.ts`:
