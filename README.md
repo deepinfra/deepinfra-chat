@@ -79,6 +79,6 @@ export async function POST(req: Request) {
 }
 ```
 
-You can experiment with diferent [Deep Infra models](https://deepinfra.com/models), prompts and options. See the [Deep Infra docs](https://deepinfra.com/docs), [Vercel AI SDK docs](https://sdk.vercel.ai/docs/introduction) and [Deep Infra AI SDK Provider docs](https://sdk.vercel.ai/providers/ai-sdk-providers/deepinfra).
+You can experiment with different [Deep Infra models](https://deepinfra.com/models), prompts and options. See the [Deep Infra docs](https://deepinfra.com/docs), [Vercel AI SDK docs](https://sdk.vercel.ai/docs/introduction) and [Deep Infra AI SDK Provider docs](https://sdk.vercel.ai/providers/ai-sdk-providers/deepinfra).
 
 
