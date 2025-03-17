@@ -9,7 +9,7 @@ This is a sample Next.js ai chat application that uses [Deep Infra models](https
   
 ## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdeepinfra%2Fdeepinfra-chat&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22deepiinfra%22%2C%22productSlug%22%3A%22api-token%22%2C%22protocol%22%3A%22ai%22%7D%5D")
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/deepinfra/deepinfra-chat&products=[{"type":"integration","integrationSlug":"deepinfra","productSlug":"api-token","protocol":"ai"}])
 
 ## Getting Started
 
