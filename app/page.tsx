@@ -59,7 +59,7 @@ export default function Home() {
         <div className={styles.ctas}>
           <a
             className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdeepinfra%2Fdeepinfra-chat&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22deepiinfra%22%2C%22productSlug%22%3A%22api-token%22%2C%22protocol%22%3A%22ai%22%7D%5D"
             target="_blank"
             rel="noopener noreferrer"
           >
